@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header] (https://github.com/rajrathi/rajrathi/blob/main/banner.png)
+! [Header](https://github.com/rajrathi/rajrathi/blob/main/banner.png)
