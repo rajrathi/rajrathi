@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rajrathi/rajrathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+! [Header] (https://github.com/rajrathi/rajrathi/blob/main/banner.png)
 
-! [Header](https://github.com/rajrathi/rajrathi/blob/main/banner.png)
+### Hi there 👋
