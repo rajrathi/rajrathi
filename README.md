@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 -->
 ![](https://github.com/rajrathi/rajrathi/blob/main/banner.png)
 
-# Hi there 👋
+# About Me :writing_hand:
+
+I am Rajeshwar Rathi, a programmer and student at LJMU, London enrolled for MS in Data Science. I am deeply passionate about Machine Learning, Deep Learinig and Computer Vision. Other than this I also love to do coding for solving problems using DSA.
