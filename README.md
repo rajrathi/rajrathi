@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-! [Header] (https://github.com/rajrathi/rajrathi/blob/main/banner.png)
+![](https://github.com/rajrathi/rajrathi/blob/main/banner.png)
 
-### Hi there 👋
+# Hi there 👋
