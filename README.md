@@ -31,8 +31,8 @@ I am Rajeshwar Rathi, a programmer and student at LJMU, London enrolled for MS i
 </p>
 <h2> Python Libraries I have worked with :snake: </h2>
 
-<h2> Machine Learning Algorithms :robot: </h2>
-
+<h2> ML Algorithms and Techniques :robot: </h2>
+  <mark>Linear Regression</mark> <span> Logistic Regression </span>
 <h2> Deep Learning Architectures :spider_web: </h2>
 
 
