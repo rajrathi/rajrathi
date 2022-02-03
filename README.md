@@ -1,17 +1,3 @@
-<!--
-**rajrathi/rajrathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![](https://github.com/rajrathi/rajrathi/blob/main/banner.png)
 
 # About Me :writing_hand:
@@ -19,23 +5,51 @@ Here are some ideas to get you started:
 I am Rajeshwar Rathi, a programmer and student at LJMU, London enrolled for MS in Data Science. I am deeply passionate about Machine Learning, Deep Learning and Computer Vision. Other than this I love to do competitive programming. I aim to do research in Machine Learning which will lead to solve the real-world challenges and help society function better.
 
 # Let me tell you about my proficiencies :technologist:
-<img src="https://github.com/rajrathi/rajrathi/blob/main/img1.png" height="400" align="left">
+<img src="https://github.com/rajrathi/rajrathi/blob/main/img1.png" height="300" width = "300" align="left">
 <h2> Langauges & Tools :computer: </h2>
 <p>
   <a href="https://www.python.org/doc">
   <img src="https://github.com/rajrathi/rajrathi/blob/main/images/py.png" height="50" style="padding: 30px;"> </a>
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/jupyter.png" height="50" style="padding: 30px;">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/cpp.png" height="50" style="padding: 30px;">
+  <a href="https://isocpp.org/">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/cpp.png" height="50" style="padding: 30px;"></a>
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/mysql.png" height="50" style="padding: 30px;">
   <img src="https://github.com/rajrathi/rajrathi/blob/main/images/c.png" height="50" style="padding: 30px;">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/flutter.png" height="50" style="padding: 30px;">
+  <a href="https://docs.flutter.dev/">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/flutter.png" height="50" style="padding: 30px;"></a>
+  <a href="https://jupyter.org/">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/jupyter.png" height="50" style="padding: 30px;"></a>
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/latex.png" height="50" style="padding: 30px;">
 </p>
 <h2> Python Libraries I have worked with :snake: </h2>
-
+<p>
+  <a href="https://numpy.org/doc/stable/">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/np.png" height="50" style="padding: 30px;"> </a>
+  <a href="https://pandas.pydata.org/docs/">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/pd.png" height="50" style="padding: 30px;"> </a>
+  <a href="https://matplotlib.org/stable/users/index.html">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/matplot.png" height="50" style="padding: 30px;"> </a>
+  <a href="https://seaborn.pydata.org/tutorial.html">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/sns.png" height="50" style="padding: 30px;"> </a>
+  <a href="https://scikit-learn.org/stable/">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/sklearn.png" height="50" style="padding: 30px;"> </a>
+  <a href="https://keras.io/guides/">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/keras.png" height="50" style="padding: 30px;"> </a>
+  <a href="https://www.tensorflow.org/guide">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/tf.png" height="50" style="padding: 30px;"> </a>
+  <a href="https://opencv.org/">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/opencv.png" height="50" style="padding: 30px;"> </a>
+  <a href="https://docs.scipy.org/doc/scipy/">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/scipy.png" height="50" style="padding: 30px;"> </a>
+  <a href="https://networkx.org/documentation/stable/tutorial.html">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/nx.png" height="50" style="padding: 30px;"> </a>
+  <a href="https://www.graphviz.org/">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/graphviz.png" height="50" style="padding: 30px;"> </a>
+</p>
+<br>
 <h2> ML Algorithms and Techniques :robot: </h2>
-  <mark>Linear Regression</mark> <span> Logistic Regression </span>
+  <code>EDA</code> <code>Linear Regression</code> <code>Logistic Regression</code> <code>Gradient Descent</code> <code>Decision Tree</code> <code>PCA</code> <code>kNN</code> <code>K-Means</code>  <code>Ensemble Learning</code> <code>Random Forest</code> <code>XGBoost</code> <code>Regularization</code> <code>Cross Validation</code>
 <h2> Deep Learning Architectures :spider_web: </h2>
-
-
+<code>CNN - AlexNet, GoogleNet, ResNet, VGG</code> <code>RNN (LSTMs, GRUs)</code> <code>GANs - DCGAN, CycleGAN</code> 
 
 # My current daily workings
 - 🔭 I’m currently working on ...
@@ -43,5 +57,14 @@ I am Rajeshwar Rathi, a programmer and student at LJMU, London enrolled for MS i
 - 👯 I’m looking to collaborate on ...
 
 # You can connect with me here
+<p>
+  <a href="https://www.linkedin.com/in/rajeshwarrathi/">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/likedin.png" height="50" style="padding: 30px;"> </a>
+  <a href="https://twitter.com/raj_rathi11">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/twitter.png" height="50" style="padding: 30px;"> </a>
+  <a href="https://www.instagram.com/raj.r.rathi/">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/ig.png" height="50" style="padding: 30px;"> </a>
+</p>
+
 
 
