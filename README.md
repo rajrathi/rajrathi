@@ -21,8 +21,15 @@ I am Rajeshwar Rathi, a programmer and student at LJMU, London enrolled for MS i
 # Let me tell you about my proficiencies :technologist:
 <img src="https://github.com/rajrathi/rajrathi/blob/main/img1.png" height="400" align="left">
 <h2> Langauges & Tools :computer: </h2>
-
-<h2> Python Libraries :snake: </h2>
+<p>
+  <a href="https://www.python.org/doc">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/py.png" height="50" style="padding: 30px;"> </a>
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/jupyter.png" height="50" style="padding: 30px;">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/cpp.png" height="50" style="padding: 30px;">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/c.png" height="50" style="padding: 30px;">
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/flutter.png" height="50" style="padding: 30px;">
+</p>
+<h2> Python Libraries I have worked with :snake: </h2>
 
 <h2> Machine Learning Algorithms :robot: </h2>
 
