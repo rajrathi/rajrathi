@@ -8,43 +8,43 @@ I am Rajeshwar Rathi, a programmer and student at LJMU, London enrolled for MS i
 <h2> Langauges & Tools :computer: </h2>
 <p>
   <a href="https://www.python.org/doc">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/py.png" height="50"> </a> &nbsp;
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/py.png" height="30"> </a> &nbsp;
   <a href="https://isocpp.org/">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/cpp.png" height="50" ></a> &nbsp;
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/cpp.png" height="30" ></a> &nbsp;
   <a href="https://dev.mysql.com/doc/">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/mysql.png" height="50" ></a> &nbsp;
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/c.png" height="50"> &nbsp;
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/mysql.png" height="30" ></a> &nbsp;
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/c.png" height="30"> &nbsp;
   <a href="https://docs.flutter.dev/">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/flutter.png" height="50"></a> &nbsp;
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/flutter.png" height="30"></a> &nbsp;
   <a href="https://jupyter.org/">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/jupyter.png" height="50"></a> &nbsp;
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/jupyter.png" height="30"></a> &nbsp;
   <a href="https://www.latex-project.org/help/documentation/">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/latex.png" height="50"></a>
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/latex.png" height="30"></a>
 </p>
 <h2> Python Libraries I have worked with :snake: </h2>
 <p>
   <a href="https://numpy.org/doc/stable/">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/np.png" height="50"> </a>
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/np.png" height="30"> </a>
   <a href="https://pandas.pydata.org/docs/">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/pd.png" height="50"> </a>
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/pd.png" height="30"> </a>
   <a href="https://matplotlib.org/stable/users/index.html">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/matplot.png" height="50"> </a>
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/matplot.png" height="30"> </a>
   <a href="https://seaborn.pydata.org/tutorial.html">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/sns.png" height="50"> </a>
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/sns.png" height="30"> </a>
   <a href="https://scikit-learn.org/stable/">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/sklearn.png" height="50"> </a>
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/sklearn.png" height="30"> </a>
   <a href="https://keras.io/guides/">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/keras.png" height="50"> </a>
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/keras.png" height="30"> </a>
   <a href="https://www.tensorflow.org/guide">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/tf.png" height="50"> </a>
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/tf.png" height="30"> </a>
   <a href="https://opencv.org/">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/opencv.png" height="50"> </a>
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/opencv.png" height="30"> </a>
   <a href="https://docs.scipy.org/doc/scipy/">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/scipy.png" height="50"> </a>
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/scipy.png" height="30"> </a>
   <a href="https://networkx.org/documentation/stable/tutorial.html">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/nx.png" height="50"> </a>
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/nx.png" height="30"> </a>
   <a href="https://www.graphviz.org/">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/graphviz.png" height="50"> </a>
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/graphviz.png" height="30"> </a>
 </p>
 <br>
 <h2> ML Algorithms and Techniques :robot: </h2>
@@ -60,11 +60,11 @@ I am Rajeshwar Rathi, a programmer and student at LJMU, London enrolled for MS i
 # You can connect with me here
 <p>
   <a href="https://www.linkedin.com/in/rajeshwarrathi/">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/likedin.png" height="50" style="padding: 30px;"> </a>
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/likedin.png" height="30" style="padding: 30px;"> </a>
   <a href="https://twitter.com/raj_rathi11">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/twitter.png" height="50" style="padding: 30px;"> </a>
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/twitter.png" height="30" style="padding: 30px;"> </a>
   <a href="https://www.instagram.com/raj.r.rathi/">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/ig.png" height="50" style="padding: 30px;"> </a>
+  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/ig.png" height="30" style="padding: 30px;"> </a>
 </p>
 
 
