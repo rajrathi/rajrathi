@@ -2,7 +2,7 @@
 
 # About Me :writing_hand:
 
-I am Rajeshwar Rathi, a programmer and student at LJMU, London enrolled for MS in Data Science. I am deeply passionate about Machine Learning, Deep Learning and Computer Vision. Other than this I love to do competitive programming. I aim to do research in Machine Learning which will lead to solve the real-world challenges and help society function better.
+I am Rajeshwar Rathi, a programmer and student at LJMU, Liverpool enrolled for MS in Data Science. I am deeply passionate about Machine Learning, Deep Learning and Computer Vision. Other than this I love to do competitive programming. I aim to do research in Machine Learning which will lead to solve the real-world challenges and help society function better.
 
 # Let me tell you about my proficiencies :technologist:
 <h2> Langauges & Tools :computer: </h2>
