@@ -55,7 +55,7 @@ I am Rajeshwar Rathi, a programmer and student at LJMU, Liverpool enrolled for M
 # My day-to-day life
 - 🔭 I’m currently working on implementing ML algorithms from scratch in Python.
 - 🌱 I’m currently learning more about Machine Learning and Mathematics about it.
-- 👯 I’m looking to collaborate on research for in domain of ML and Computer Vision.
+- 👯 I’m looking to collaborate for research in domain of ML and Computer Vision.
 
 # You can connect with me here
 <p>
