@@ -9,14 +9,5 @@ I am Rajeshwar Rathi, a programmer, and student at LJMU, Liverpool enrolled for 
 - 🌱 I’m currently learning more about Machine Learning and Mathematics about it.
 - 👯 I’m looking to collaborate for research in the domain of ML and Computer Vision.
 
-# You can connect with me here
-<p>
-  <a href="https://www.linkedin.com/in/rajeshwarrathi/">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/likedin.png" height="40" style="padding: 40px;"> </a>
-  <a href="https://twitter.com/rajeshwar_rathi">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/twitter.png" height="40" style="padding: 40px;"> </a>
-  <a href="https://www.instagram.com/raj.r.rathi/">
-  <img src="https://github.com/rajrathi/rajrathi/blob/main/images/ig.png" height="40" style="padding: 40px;"> </a>
-</p>
 
 
